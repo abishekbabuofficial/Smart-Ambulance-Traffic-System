@@ -28,5 +28,5 @@ Feel free to contribute to improving models, adding datasets, or optimizing code
 
 ## Help make traffic smarter and save lives with AI! 😊
 
-##License
+## License
 This project is licensed under the cc0 License.
